@@ -1,0 +1,24 @@
+6. Technical data
+Generator Digital Inverter
+IP class IP23M
+Continous power Pnenn (S1)
+(230 V) 1600 W
+Maximum power Pmax
+(S2 2 min) (230 V) 2000 W
+Rated voltage Unenn 2 x 230 V~
+Rated current Inenn 6,95 A (230 V)
+Frequency Fnenn 50 Hz
+Drive engine design 4 stroke 1 cylinder air colled
+Displacement 79 cm3
+Maximum power (motor) 2,2 kW / 3 PS
+Fuel unleaded (E5)
+Tank capacity 4,1 l
+Type of motor oil 10W30 / 15W40
+Amount of oil (approx.) 350 ml
+Consumption at full load 1,269 l/h
+Weight 17,5 kg
+Temperature max 40 °
+C
+Max. altitude 1000 m
+Spark plug A7RTC
+Subject to technical modifications!

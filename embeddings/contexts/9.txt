@@ -1,0 +1,24 @@
+
+9. Never touch the generator with wet hands.
+10. Guard against electric danger.
+11. When working outdoors, use only extension cables that are approved for outdoor use and which
+are marked accordingly (H07RN).
+12. The overall length of the extension cables used is
+not allowed to exceed 1,5 mm2
+ for 50 m and 2,5
+mm2
+ for 100 m.
+13. Repairs and adjustment work may only be carried
+out by authorized trained personnel.
+14. Do not touch any mechanically driven or hot parts.
+Do not remove the safety guards.
+15. The values quoted in the technical data under
+sound power level (LWA) and sound pressure level (LpA) are emission values and not necessarily
+reliable workplace values. As there is a correlation between emission and immission levels, the
+values cannot be taken to reliably determine the
+possible need for additional precautions. Factors
+influencing the current immission level of the user/
+operator include the properties of the work area,
+other sound sources etc., e.g. the number of machines and other neighboring processes, and the
+time span over which the user/operator is subjected to the noise. Also, the permitted immission level
+can vary from country to country.

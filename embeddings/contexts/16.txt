@@ -1,0 +1,13 @@
+Operating mode S1 (continuous operation)
+The machine can be continuously operated with the
+quoted power output.
+Operating mode S2 (temporary operation)
+The machine may be temporarily operated with the
+quoted power output. Afterwards the machine must be
+stopped for a while to prevent it from overheating.
+Information concerning noise emission measured according to relevant standards:
+Sound pressure LpA = 71,6 dB(A)
+Sound power LwA = 91,6 dB(A)
+Uncertainty KpA = 1,13 dB
+Wear ear-muffs.
+The impact of noise can cause damage to hearing.

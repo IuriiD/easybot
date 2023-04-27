@@ -1,0 +1,11 @@
+14. Troubleshooting
+Fault Possible cause Remedy
+Engine does not start dirty spark plug
+no fuel
+Clean the spark plug, or replace.
+Electrode spacing 0,6 mm
+Refill fuel
+Generator has too little or no voltage Controller or capacitor defective
+Air filter dirty
+Contact your dealer
+Clean or replace the filter

@@ -1,0 +1,29 @@
+4. Intended use
+The device is designed for applications operated with a
+230 V alternating current source.
+Be sure to observe the restrictions in the safety
+instructions.
+The generator is intended to provide electric power
+tools and light sources with electricity. When using the
+device with household appliances, please check their
+suitability in accordance with the relevant manufacturer’s instructions. 
+In case of doubt, ask an authorized dealer of the respective equipment.
+This generator is only intended for the operation of
+electrical devices which maximum power lies within
+the performance indications of the generator. A higher
+inrush current of inductive consumers must be considered.
+Inverter
+The inverter generator generates electricity in a whole
+new way. With a small, multipole winding in the inside
+the produced voltage is converted via electronic first
+into DC voltage afterwards into alternating voltage with
+a clean sinus wave. With this clean sinus wave it is
+possible to operate electrical devices without damaging them.
+The machine is to be used only for its prescribed purpose. Any other use is deemed to be a case of misuse.
+The user / operator and not the manufacturer will be
+liable for any damage or injuries of any kind caused as
+a result of this.
+Please note that our equipment has not been designed
+for use in commercial, trade or industrial applications.
+Our warranty will be voided if the equipment is used in
+commercial, trade or industrial businesses or for equivalent purposes.

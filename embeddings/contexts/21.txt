@@ -1,0 +1,28 @@
+9.3 Oil warning light (11)
+Display is active at low oil level and deactivated when
+sufficient oil level.
+9.4 Overload indicator (12)
+Overload protection is active at too high a power takeoff - Turns off 230 V sockets (9).
+Turn off the unit (see section 9.2).
+Connected devices from separate generator. The unit
+(see section 9.1).
+9.5 Operating display (13)
+Power indicator active - when the engine is running.
+9.6 Energy saving switch (9)
+Reduce fuel consumption / idle - Energy saving switch
+“ON“ position.
+9.7. Electrical safety
+Electrical cables and attached devices must be defect
+free.
+Never connect the generator to the mains (power
+point).
+Keep the cables as short as possible.
+9.8 Connecting to earth (fig. 2)
+The housing can be connected to earth to discharge
+static electricity. To do this, connect one end of a cable
+to the earthing connection (7) on the generator and the
+other end to an external ground (z. B. for example to
+an earthing rod).
+9.9 USB port
+This generator is equipped with two USB ports. These
+can be used to charge smartphones.
