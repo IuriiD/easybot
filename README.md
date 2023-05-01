@@ -44,5 +44,5 @@ npm start
 # Observe how backend is writing logs
 ```
 
-## Running the app ##
+## Disclaimer ##
 This is a proof-of-concept (POC), created while learning OpenAI-Pinecone stack. The app is handling only the "happy flow" and might contain bugs.
