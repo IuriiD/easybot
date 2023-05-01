@@ -4,3 +4,5 @@ npm-debug.log
 .env
 .vscode
 .idea
+embeddings/keys.py
+embeddings/env
